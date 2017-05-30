@@ -1,0 +1,2473 @@
+{"styles": [
+    "Soundtrack",
+    "Disco"
+  ],
+  "videos": [
+    {
+      "duration": 183,
+      "description": "Yvonne Elliman - If I Can't Have You",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=J0vFmZ99qyo",
+      "title": "Yvonne Elliman - If I Can't Have You"
+    },
+    {
+      "duration": 4601,
+      "description": "Saturday Night Fever soundtrack full album",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=upreJjwag0g",
+      "title": "Saturday Night Fever soundtrack full album"
+    },
+    {
+      "duration": 255,
+      "description": "Bee Gees - You Should Be Dancing",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=_JoZS6LgqYI",
+      "title": "Bee Gees - You Should Be Dancing"
+    },
+    {
+      "duration": 213,
+      "description": "Saturday Night Fever \u2022 Night Fever \u2022 Bee Gees",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=op5FxEs1aR0",
+      "title": "Saturday Night Fever \u2022 Night Fever \u2022 Bee Gees"
+    },
+    {
+      "duration": 224,
+      "description": "Saturday Night Fever - Night Fever (Bee Gees)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=FECFb1_YdII",
+      "title": "Saturday Night Fever - Night Fever (Bee Gees)"
+    },
+    {
+      "duration": 243,
+      "description": "Bee Gees - Stayin' Alive (1977)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=I_izvAbhExY",
+      "title": "Bee Gees - Stayin' Alive (1977)"
+    },
+    {
+      "duration": 240,
+      "description": "Bee Gees - How Deep Is Your Love (1977)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=XpqqjU7u5Yc",
+      "title": "Bee Gees - How Deep Is Your Love (1977)"
+    },
+    {
+      "duration": 212,
+      "description": "Bee Gees - Night Fever (1977)",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=-ihs-vT9T3Q",
+      "title": "Bee Gees - Night Fever (1977)"
+    },
+    {
+      "duration": 224,
+      "description": "The Trammps - Disco Inferno",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=A_sY2rjxq6M",
+      "title": "The Trammps - Disco Inferno"
+    }
+  ],
+  "series": [],
+  "labels": [
+    {
+      "name": "RSO",
+      "entity_type": "1",
+      "catno": "RS-2-4001",
+      "resource_url": "https://api.discogs.com/labels/5811",
+      "id": 5811,
+      "entity_type_name": "Label"
+    },
+    {
+      "name": "RSO",
+      "entity_type": "1",
+      "catno": "2658 123",
+      "resource_url": "https://api.discogs.com/labels/5811",
+      "id": 5811,
+      "entity_type_name": "Label"
+    }
+  ],
+  "year": 1977,
+  "community": {
+    "status": "Accepted",
+    "rating": {
+      "count": 181,
+      "average": 3.9
+    },
+    "have": 2990,
+    "contributors": [
+      {
+        "username": "Diognes_The_Fox",
+        "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+      },
+      {
+        "username": "Kater_Murr",
+        "resource_url": "https://api.discogs.com/users/Kater_Murr"
+      },
+      {
+        "username": "disneyfacts",
+        "resource_url": "https://api.discogs.com/users/disneyfacts"
+      },
+      {
+        "username": "ftrwhat...",
+        "resource_url": "https://api.discogs.com/users/ftrwhat..."
+      },
+      {
+        "username": "truedream",
+        "resource_url": "https://api.discogs.com/users/truedream"
+      },
+      {
+        "username": "ray2603",
+        "resource_url": "https://api.discogs.com/users/ray2603"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "surchand",
+        "resource_url": "https://api.discogs.com/users/surchand"
+      },
+      {
+        "username": "twiceage",
+        "resource_url": "https://api.discogs.com/users/twiceage"
+      },
+      {
+        "username": "sailorcartman",
+        "resource_url": "https://api.discogs.com/users/sailorcartman"
+      },
+      {
+        "username": "berothbr",
+        "resource_url": "https://api.discogs.com/users/berothbr"
+      }
+    ],
+    "want": 234,
+    "submitter": {
+      "username": "Diognes_The_Fox",
+      "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+    },
+    "data_quality": "Needs Vote"
+  },
+  "artists": [
+    {
+      "join": ",",
+      "name": "Various",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/194",
+      "id": 194
+    }
+  ],
+  "images": [
+    {
+      "uri": "",
+      "height": 596,
+      "width": 600,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 602,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "format_quantity": 2,
+  "id": 2632748,
+  "genres": [
+    "Electronic",
+    "Stage & Screen"
+  ],
+  "thumb": "",
+  "num_for_sale": 91,
+  "title": "Saturday Night Fever (The Original Movie Sound Track)",
+  "date_changed": "2017-05-11T21:26:57-07:00",
+  "master_id": 23443,
+  "lowest_price": 0.5,
+  "status": "Accepted",
+  "released_formatted": "1977",
+  "estimated_weight": 460,
+  "master_url": "https://api.discogs.com/masters/23443",
+  "released": "1977",
+  "date_added": "2011-01-04T15:58:54-08:00",
+  "tracklist": [
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "Joe Lala",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/308192",
+          "id": 308192
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "Stayin' Alive",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "4:43",
+      "position": "A1"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "How Deep Is Your Love",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "4:03",
+      "position": "A2"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "Night Fever",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "3:33",
+      "position": "A3"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "Joe Lala",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/308192",
+          "id": 308192
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "More Than A Woman",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "3:15",
+      "position": "A4"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Wade Marcus",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By [Horn & String]",
+          "resource_url": "https://api.discogs.com/artists/178788",
+          "id": 178788
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By [Rhythm]",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Julia Tillman Waters",
+          "anv": "",
+          "tracks": "",
+          "role": "Backing Vocals",
+          "resource_url": "https://api.discogs.com/artists/441634",
+          "id": 441634
+        },
+        {
+          "join": "",
+          "name": "Marti McCall",
+          "anv": "",
+          "tracks": "",
+          "role": "Backing Vocals",
+          "resource_url": "https://api.discogs.com/artists/253354",
+          "id": 253354
+        },
+        {
+          "join": "",
+          "name": "Maxine Willard Waters",
+          "anv": "",
+          "tracks": "",
+          "role": "Backing Vocals",
+          "resource_url": "https://api.discogs.com/artists/441646",
+          "id": 441646
+        },
+        {
+          "join": "",
+          "name": "Scott Edwards (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/63316",
+          "id": 63316
+        },
+        {
+          "join": "",
+          "name": "James Gadson",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/211643",
+          "id": 211643
+        },
+        {
+          "join": "",
+          "name": "Bob \"Boogie\" Bowles",
+          "anv": "Bob Bowles",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/388776",
+          "id": 388776
+        },
+        {
+          "join": "",
+          "name": "Bob Zimmitti",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/411892",
+          "id": 411892
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Paulinho Da Costa",
+          "anv": "Paulinho Da'Costa",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/46163",
+          "id": 46163
+        },
+        {
+          "join": "",
+          "name": "Sonny Burke (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Piano",
+          "resource_url": "https://api.discogs.com/artists/735144",
+          "id": 735144
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Synthesizer",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "If I Can't Have You",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Yvonne Elliman",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97320",
+          "id": 97320
+        }
+      ],
+      "duration": "2:57",
+      "position": "A5"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Walter Murphy",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By, Conductor",
+          "resource_url": "https://api.discogs.com/artists/5017",
+          "id": 5017
+        },
+        {
+          "join": "",
+          "name": "Thomas J. Valentino",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/295510",
+          "id": 295510
+        },
+        {
+          "join": "",
+          "name": "Walter Murphy",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/5017",
+          "id": 5017
+        }
+      ],
+      "title": "A Fifth Of Beethoven",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Walter Murphy",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/5017",
+          "id": 5017
+        }
+      ],
+      "duration": "3:01",
+      "position": "B1"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Wade Marcus",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By [Horn & String]",
+          "resource_url": "https://api.discogs.com/artists/178788",
+          "id": 178788
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By [Rhythm]",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Scott Edwards (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/63316",
+          "id": 63316
+        },
+        {
+          "join": "",
+          "name": "James Gadson",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/211643",
+          "id": 211643
+        },
+        {
+          "join": "",
+          "name": "Bob \"Boogie\" Bowles",
+          "anv": "Bob Bowles",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/388776",
+          "id": 388776
+        },
+        {
+          "join": "",
+          "name": "Bob Zimmitti",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/411892",
+          "id": 411892
+        },
+        {
+          "join": "",
+          "name": "Paulinho Da Costa",
+          "anv": "Paulinho Da'Costa",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/46163",
+          "id": 46163
+        },
+        {
+          "join": "",
+          "name": "Sonny Burke (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Piano",
+          "resource_url": "https://api.discogs.com/artists/735144",
+          "id": 735144
+        },
+        {
+          "join": "",
+          "name": "Freddie Perren",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/214233",
+          "id": 214233
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "More Than A Woman",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Tavares",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/80121",
+          "id": 80121
+        }
+      ],
+      "duration": "3:16",
+      "position": "B2"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Abraham LaBoriel",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass",
+          "resource_url": "https://api.discogs.com/artists/280077",
+          "id": 280077
+        },
+        {
+          "join": "",
+          "name": "James Getzoff",
+          "anv": "Jimmy Getzoff",
+          "tracks": "",
+          "role": "Concertmaster",
+          "resource_url": "https://api.discogs.com/artists/346717",
+          "id": 346717
+        },
+        {
+          "join": "",
+          "name": "Nathan Kaproff",
+          "anv": "",
+          "tracks": "",
+          "role": "Contractor [Orchestra]",
+          "resource_url": "https://api.discogs.com/artists/304302",
+          "id": 304302
+        },
+        {
+          "join": "",
+          "name": "James Gadson",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/211643",
+          "id": 211643
+        },
+        {
+          "join": "",
+          "name": "Lee Ritenour",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/37735",
+          "id": 37735
+        },
+        {
+          "join": "",
+          "name": "Mitch Holder",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/253207",
+          "id": 253207
+        },
+        {
+          "join": "",
+          "name": "Sonny Burke (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/735144",
+          "id": 735144
+        },
+        {
+          "join": "",
+          "name": "Steve Forman",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/260199",
+          "id": 260199
+        },
+        {
+          "join": "",
+          "name": "Bill Oakes",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97666",
+          "id": 97666
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Michael Boddicker",
+          "anv": "",
+          "tracks": "",
+          "role": "Synthesizer",
+          "resource_url": "https://api.discogs.com/artists/279662",
+          "id": 279662
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        }
+      ],
+      "title": "Manhattan Skyline",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        }
+      ],
+      "duration": "4:43",
+      "position": "B3"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Ralph MacDonald",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/136198",
+          "id": 136198
+        },
+        {
+          "join": "",
+          "name": "William Salter",
+          "anv": "W. Salter",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/338578",
+          "id": 338578
+        },
+        {
+          "join": "",
+          "name": "William Eaton",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/277601",
+          "id": 277601
+        }
+      ],
+      "title": "Calypso Breakdown",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Ralph MacDonald",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/136198",
+          "id": 136198
+        }
+      ],
+      "duration": "7:50",
+      "position": "B4"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Adapted By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Scott Edwards (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass",
+          "resource_url": "https://api.discogs.com/artists/63316",
+          "id": 63316
+        },
+        {
+          "join": "",
+          "name": "James Getzoff",
+          "anv": "Jimmy Getzoff",
+          "tracks": "",
+          "role": "Concertmaster",
+          "resource_url": "https://api.discogs.com/artists/346717",
+          "id": 346717
+        },
+        {
+          "join": "",
+          "name": "Nathan Kaproff",
+          "anv": "",
+          "tracks": "",
+          "role": "Contractor [Orchestra]",
+          "resource_url": "https://api.discogs.com/artists/304302",
+          "id": 304302
+        },
+        {
+          "join": "",
+          "name": "Mike Baird",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/311937",
+          "id": 311937
+        },
+        {
+          "join": "",
+          "name": "Dennis Budimir",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/280032",
+          "id": 280032
+        },
+        {
+          "join": "",
+          "name": "Lee Ritenour",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/37735",
+          "id": 37735
+        },
+        {
+          "join": "",
+          "name": "Ralph Grierson",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/312208",
+          "id": 312208
+        },
+        {
+          "join": "",
+          "name": "Emil Richards",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/358318",
+          "id": 358318
+        },
+        {
+          "join": "",
+          "name": "Steve Forman",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/260199",
+          "id": 260199
+        },
+        {
+          "join": "",
+          "name": "Bill Oakes",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97666",
+          "id": 97666
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Michael Boddicker",
+          "anv": "",
+          "tracks": "",
+          "role": "Synthesizer",
+          "resource_url": "https://api.discogs.com/artists/279662",
+          "id": 279662
+        },
+        {
+          "join": "",
+          "name": "Modest Mussorgsky",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/523633",
+          "id": 523633
+        }
+      ],
+      "title": "Night On Disco Mountain",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        }
+      ],
+      "duration": "5:12",
+      "position": "C1"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Kool & The Gang",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/48865",
+          "id": 48865
+        },
+        {
+          "join": "",
+          "name": "Ronald Bell",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/108893",
+          "id": 108893
+        }
+      ],
+      "title": "Open Sesame",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Kool & The Gang",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/48865",
+          "id": 48865
+        }
+      ],
+      "duration": "3:59",
+      "position": "C2"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Joey Murcia",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/377124",
+          "id": 377124
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar [Lead & Steel]",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "Geoff Westley",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/280449",
+          "id": 280449
+        },
+        {
+          "join": "",
+          "name": "Joe Lala",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/308192",
+          "id": 308192
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Whit Sidener",
+          "anv": "",
+          "tracks": "",
+          "role": "Saxophone [Alto; Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/211662",
+          "id": 211662
+        },
+        {
+          "join": "",
+          "name": "Stan Webb",
+          "anv": "",
+          "tracks": "",
+          "role": "Saxophone [Baritone; Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/277950",
+          "id": 277950
+        },
+        {
+          "join": "",
+          "name": "Peter Ballin",
+          "anv": "",
+          "tracks": "",
+          "role": "Saxophone [Tenor; Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/561341",
+          "id": 561341
+        },
+        {
+          "join": "",
+          "name": "Peter Graves",
+          "anv": "Pete Graves",
+          "tracks": "",
+          "role": "Trombone [Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/211667",
+          "id": 211667
+        },
+        {
+          "join": "",
+          "name": "Jeff Kievit",
+          "anv": "",
+          "tracks": "",
+          "role": "Trumpet [Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/269218",
+          "id": 269218
+        },
+        {
+          "join": "",
+          "name": "Ken Faulk",
+          "anv": "Kenny Faulk",
+          "tracks": "",
+          "role": "Trumpet [Boneroo Horns]",
+          "resource_url": "https://api.discogs.com/artists/211668",
+          "id": 211668
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "Jive Talkin'",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "3:44",
+      "position": "C3"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass Guitar",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Dennis Bryon",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/388698",
+          "id": 388698
+        },
+        {
+          "join": "",
+          "name": "Alan Kendall",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/441354",
+          "id": 441354
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Blue Weaver",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards",
+          "resource_url": "https://api.discogs.com/artists/176446",
+          "id": 176446
+        },
+        {
+          "join": "",
+          "name": "George \"Chocolate\" Perry",
+          "anv": "George Perry",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/546512",
+          "id": 546512
+        },
+        {
+          "join": "",
+          "name": "Joe Lala",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion",
+          "resource_url": "https://api.discogs.com/artists/308192",
+          "id": 308192
+        },
+        {
+          "join": "",
+          "name": "Stephen Stills",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion [Additional]",
+          "resource_url": "https://api.discogs.com/artists/236968",
+          "id": 236968
+        },
+        {
+          "join": "",
+          "name": "Albhy Galuten",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151384",
+          "id": 151384
+        },
+        {
+          "join": "",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        },
+        {
+          "join": "",
+          "name": "Karl Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/151396",
+          "id": 151396
+        },
+        {
+          "join": "",
+          "name": "Barry Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/151481",
+          "id": 151481
+        },
+        {
+          "join": "",
+          "name": "Maurice Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/290019",
+          "id": 290019
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb",
+          "anv": "",
+          "tracks": "",
+          "role": "Vocals",
+          "resource_url": "https://api.discogs.com/artists/179142",
+          "id": 179142
+        },
+        {
+          "join": "",
+          "name": "Robin Gibb, Barry Gibb & Maurice Gibb",
+          "anv": "B., R. & M. Gibb",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/746270",
+          "id": 746270
+        }
+      ],
+      "title": "You Should Be Dancing",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "Bee Gees",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/97664",
+          "id": 97664
+        }
+      ],
+      "duration": "4:15",
+      "position": "C4"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Harry Wayne Casey & Richard Finch",
+          "anv": "H. W. Casey & Richard Finch",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/752881",
+          "id": 752881
+        },
+        {
+          "join": "",
+          "name": "Harry Wayne Casey & Richard Finch",
+          "anv": "H. W. Casey & Richard Finch",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/752881",
+          "id": 752881
+        },
+        {
+          "join": "",
+          "name": "Harry Wayne Casey & Richard Finch",
+          "anv": "H. W. Casey & Richard Finch",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/752881",
+          "id": 752881
+        }
+      ],
+      "title": "Boogie Shoes",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "KC & The Sunshine Band",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/64664",
+          "id": 64664
+        }
+      ],
+      "duration": "2:16",
+      "position": "C5"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Scott Edwards (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Bass",
+          "resource_url": "https://api.discogs.com/artists/63316",
+          "id": 63316
+        },
+        {
+          "join": "",
+          "name": "Chino Valdez",
+          "anv": "",
+          "tracks": "",
+          "role": "Congas",
+          "resource_url": "https://api.discogs.com/artists/665644",
+          "id": 665644
+        },
+        {
+          "join": "",
+          "name": "Nathan Kaproff",
+          "anv": "",
+          "tracks": "",
+          "role": "Contractor [Orchestra]",
+          "resource_url": "https://api.discogs.com/artists/304302",
+          "id": 304302
+        },
+        {
+          "join": "",
+          "name": "Mark Stevens (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Drums",
+          "resource_url": "https://api.discogs.com/artists/273915",
+          "id": 273915
+        },
+        {
+          "join": "",
+          "name": "Lee Ritenour",
+          "anv": "",
+          "tracks": "",
+          "role": "Guitar",
+          "resource_url": "https://api.discogs.com/artists/37735",
+          "id": 37735
+        },
+        {
+          "join": "",
+          "name": "Sonny Burke (2)",
+          "anv": "",
+          "tracks": "",
+          "role": "Keyboards [Electric]",
+          "resource_url": "https://api.discogs.com/artists/735144",
+          "id": 735144
+        },
+        {
+          "join": "",
+          "name": "Emil Richards",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion [Latin]",
+          "resource_url": "https://api.discogs.com/artists/358318",
+          "id": 358318
+        },
+        {
+          "join": "",
+          "name": "Steve Forman",
+          "anv": "",
+          "tracks": "",
+          "role": "Percussion [Latin]",
+          "resource_url": "https://api.discogs.com/artists/260199",
+          "id": 260199
+        },
+        {
+          "join": "",
+          "name": "Eddie Cano",
+          "anv": "",
+          "tracks": "",
+          "role": "Piano [Acoustic]",
+          "resource_url": "https://api.discogs.com/artists/301704",
+          "id": 301704
+        },
+        {
+          "join": "",
+          "name": "Bill Oakes",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/97666",
+          "id": 97666
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        },
+        {
+          "join": "",
+          "name": "Jerome Richardson",
+          "anv": "",
+          "tracks": "",
+          "role": "Soloist [Flute]",
+          "resource_url": "https://api.discogs.com/artists/72480",
+          "id": 72480
+        },
+        {
+          "join": "",
+          "name": "Tony Terran",
+          "anv": "",
+          "tracks": "",
+          "role": "Soloist [Trumpet]",
+          "resource_url": "https://api.discogs.com/artists/384175",
+          "id": 384175
+        },
+        {
+          "join": "",
+          "name": "Bob Zimmitti",
+          "anv": "",
+          "tracks": "",
+          "role": "Timbales",
+          "resource_url": "https://api.discogs.com/artists/411892",
+          "id": 411892
+        },
+        {
+          "join": "",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        }
+      ],
+      "title": "Salsation",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "David Shire",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/29784",
+          "id": 29784
+        }
+      ],
+      "duration": "3:50",
+      "position": "D1"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Bobby Martin",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/172701",
+          "id": 172701
+        },
+        {
+          "join": "",
+          "name": "Bobby Martin",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/172701",
+          "id": 172701
+        },
+        {
+          "join": "",
+          "name": "Broadway Eddie",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/283057",
+          "id": 283057
+        },
+        {
+          "join": "",
+          "name": "Charles Hearndon",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/684062",
+          "id": 684062
+        }
+      ],
+      "title": "K-Jee",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "MFSB",
+          "anv": "M.F.S.B.",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/3452",
+          "id": 3452
+        }
+      ],
+      "duration": "4:15",
+      "position": "D2"
+    },
+    {
+      "extraartists": [
+        {
+          "join": "",
+          "name": "Ron Kersey",
+          "anv": "",
+          "tracks": "",
+          "role": "Arranged By",
+          "resource_url": "https://api.discogs.com/artists/125117",
+          "id": 125117
+        },
+        {
+          "join": "",
+          "name": "Ron Kersey",
+          "anv": "",
+          "tracks": "",
+          "role": "Producer",
+          "resource_url": "https://api.discogs.com/artists/125117",
+          "id": 125117
+        },
+        {
+          "join": "",
+          "name": "Leroy Green",
+          "anv": "",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/661560",
+          "id": 661560
+        },
+        {
+          "join": "",
+          "name": "Ron Kersey",
+          "anv": "Ron \"Have Mercy\" Kersey",
+          "tracks": "",
+          "role": "Written-By",
+          "resource_url": "https://api.discogs.com/artists/125117",
+          "id": 125117
+        }
+      ],
+      "title": "Disco Inferno",
+      "type_": "track",
+      "artists": [
+        {
+          "join": ",",
+          "name": "The Trammps",
+          "anv": "",
+          "tracks": "",
+          "role": "",
+          "resource_url": "https://api.discogs.com/artists/14898",
+          "id": 14898
+        }
+      ],
+      "duration": "10:52",
+      "position": "D3"
+    }
+  ],
+  "extraartists": [
+    {
+      "join": "",
+      "name": "Susan Herr",
+      "anv": "",
+      "tracks": "",
+      "role": "Artwork By [Prepared By]",
+      "resource_url": "https://api.discogs.com/artists/1831018",
+      "id": 1831018
+    },
+    {
+      "join": "",
+      "name": "Tom Nikosey",
+      "anv": "",
+      "tracks": "",
+      "role": "Artwork By [Prepared By]",
+      "resource_url": "https://api.discogs.com/artists/1407517",
+      "id": 1407517
+    },
+    {
+      "join": "",
+      "name": "Bill Oakes",
+      "anv": "",
+      "tracks": "",
+      "role": "Compiled By, Supervised By [Album]",
+      "resource_url": "https://api.discogs.com/artists/97666",
+      "id": 97666
+    },
+    {
+      "join": "",
+      "name": "Dan Wallin",
+      "anv": "Danny Wallin",
+      "tracks": "B3, C1, D1",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/287711",
+      "id": 287711
+    },
+    {
+      "join": "",
+      "name": "Karl Richardson",
+      "anv": "",
+      "tracks": "A1 to A4, C3, C4",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/151396",
+      "id": 151396
+    },
+    {
+      "join": "",
+      "name": "Larry Miles",
+      "anv": "",
+      "tracks": "A5, B2",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/388770",
+      "id": 388770
+    },
+    {
+      "join": "",
+      "name": "Ray Thompson",
+      "anv": "",
+      "tracks": "C3",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/386532",
+      "id": 386532
+    },
+    {
+      "join": "",
+      "name": "Steve Pouliot",
+      "anv": "",
+      "tracks": "A5, B2",
+      "role": "Engineer",
+      "resource_url": "https://api.discogs.com/artists/388771",
+      "id": 388771
+    },
+    {
+      "join": "",
+      "name": "Ed Mashal",
+      "anv": "Ed Marshal",
+      "tracks": "C4",
+      "role": "Engineer [Assistant; Miami]",
+      "resource_url": "https://api.discogs.com/artists/447063",
+      "id": 447063
+    },
+    {
+      "join": "",
+      "name": "Nick Blagona",
+      "anv": "Nick Blacona",
+      "tracks": "C4",
+      "role": "Engineer [Assistant; Quebec]",
+      "resource_url": "https://api.discogs.com/artists/299971",
+      "id": 299971
+    },
+    {
+      "join": "",
+      "name": "Jerry Crawford",
+      "anv": "",
+      "tracks": "B3, C1, D1",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/1194880",
+      "id": 1194880
+    },
+    {
+      "join": "",
+      "name": "Jim Nau",
+      "anv": "",
+      "tracks": "A5",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/1059327",
+      "id": 1059327
+    },
+    {
+      "join": "",
+      "name": "John Blanche",
+      "anv": "John Blanch",
+      "tracks": "C4",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/645249",
+      "id": 645249
+    },
+    {
+      "join": "",
+      "name": "Michel Marie",
+      "anv": "",
+      "tracks": "A1 to A4",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/657643",
+      "id": 657643
+    },
+    {
+      "join": "",
+      "name": "Tyrone Williams",
+      "anv": "",
+      "tracks": "A5",
+      "role": "Engineer [Assistant]",
+      "resource_url": "https://api.discogs.com/artists/219490",
+      "id": 219490
+    },
+    {
+      "join": "",
+      "name": "Wally Traugott",
+      "anv": "",
+      "tracks": "",
+      "role": "Mastered By",
+      "resource_url": "https://api.discogs.com/artists/360250",
+      "id": 360250
+    },
+    {
+      "join": "",
+      "name": "Francesco Scavullo",
+      "anv": "",
+      "tracks": "",
+      "role": "Photography [Bee Gees]",
+      "resource_url": "https://api.discogs.com/artists/707517",
+      "id": 707517
+    },
+    {
+      "join": "",
+      "name": "Charles W. Bush",
+      "anv": "",
+      "tracks": "",
+      "role": "Photography [Tavares]",
+      "resource_url": "",
+      "id": 0
+    },
+    {
+      "join": "",
+      "name": "Norman Seeff",
+      "anv": "",
+      "tracks": "",
+      "role": "Photography [Yvonne Elliman]",
+      "resource_url": "https://api.discogs.com/artists/1170513",
+      "id": 1170513
+    }
+  ],
+  "country": "US",
+  "notes": "\u00a9 1977 RSO Records, Inc.\n\nA1 to A4, Recorded at Chateau D'Herouville, France\nOverdubs and remixing at Criteria Studios Miami, Florida.\n\nA5, B2 Recorded at The Mom & Pops Company Store, Studio City.\n\nB3, C1, D1 Recorded at The Burbank Studios, Burbank, California.\n\nC3 Recorded at Criteria Studios Miami, Florida.\n\nC4 Recorded at Criteria Studios Miami, Florida and Le Studio, Quebec.\n\nPrinted in U.S.A.\n\nGatefold cover with printed inner sleeves with info.\n\nThis version is the Sound Makers pressing plant variation with the short 3:44 minute version of track C3 \"Jive Talkin'\". It can be identified by the label typesetting and the runout groove etchings.",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "description": "A-side label",
+      "value": "(RS-2-4001-A)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "B-side label",
+      "value": "(RS-2-4001-B)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "C-side label",
+      "value": "(RS-2-4001-C)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "D-side label",
+      "value": "(RS-2-4001-D)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "A-side runout etching",
+      "value": "RS-2-4001 AS SMK SMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "B-side runout etching",
+      "value": "RS-2-4001 BS SMK SMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "C-side runout etching",
+      "value": "RS-2-4001 CS SMK SMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "D-side runout etching",
+      "value": "RS-2-4001 DS SMK SMI"
+    },
+    {
+      "type": "Other",
+      "description": "All labels",
+      "value": "Intl.# 2658 123"
+    },
+    {
+      "type": "Other",
+      "description": "A & B side label",
+      "value": "Ind. Intl.# 2479 199"
+    },
+    {
+      "type": "Other",
+      "description": "C & D side label",
+      "value": "Ind. Intl.# 2479 200"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    }
+  ],
+  "companies": [
+    {
+      "name": "RSO Records, Inc.",
+      "entity_type": "4",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/16668",
+      "id": 16668,
+      "entity_type_name": "Record Company"
+    },
+    {
+      "name": "Paramount Pictures Corporation",
+      "entity_type": "14",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/289153",
+      "id": 289153,
+      "entity_type_name": "Copyright (c)"
+    },
+    {
+      "name": "Polydor",
+      "entity_type": "10",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "id": 1610,
+      "entity_type_name": "Manufactured By"
+    },
+    {
+      "name": "Polydor",
+      "entity_type": "8",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "id": 1610,
+      "entity_type_name": "Marketed By"
+    },
+    {
+      "name": "Phonodisc",
+      "entity_type": "9",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/52992",
+      "id": 52992,
+      "entity_type_name": "Distributed By"
+    },
+    {
+      "name": "RSO Records, Inc.",
+      "entity_type": "14",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/16668",
+      "id": 16668,
+      "entity_type_name": "Copyright (c)"
+    },
+    {
+      "name": "RSO Records, Inc.",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/16668",
+      "id": 16668,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Capitol Records",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/654",
+      "id": 654,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Private Stock Records, Ltd.",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/272842",
+      "id": 272842,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Marlin Records (3)",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/420545",
+      "id": 420545,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "De-Lite Records",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "id": 9892,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "T.K. Records",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/11713",
+      "id": 11713,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Philadelphia International Records",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/11910",
+      "id": 11910,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "id": 23937,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Capitol Mastering",
+      "entity_type": "29",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/265641",
+      "id": 265641,
+      "entity_type_name": "Mastered At"
+    },
+    {
+      "name": "Sound Makers",
+      "entity_type": "17",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/289228",
+      "id": 289228,
+      "entity_type_name": "Pressed By"
+    }
+  ],
+  "uri": "https://www.discogs.com/Various-Saturday-Night-Fever-The-Original-Movie-Sound-Track/release/2632748",
+  "formats": [
+    {
+      "descriptions": [
+        "LP",
+        "Album",
+        "Compilation"
+      ],
+      "text": "Sound Makers Pressing",
+      "name": "Vinyl",
+      "qty": "2"
+    }
+  ],
+  "resource_url": "https://api.discogs.com/releases/2632748",
+  "data_quality": "Needs Vote"
+}

@@ -1,0 +1,259 @@
+{
+  "profile": "The following catalogue number prefixes belong to the following IRMA sublabels. Please make sure to submit on the correct label pages:\r\n\r\nICP = IRMA CasadiPrimordine \r\nIC  = IRMA On Canvas (usually Italian pressings)\r\nIU  = IRMA Unlimited (usually American pressings)\r\nOIC or OLD = IRMA Classics\r\n\r\nAlbums and compilations showing the IRMA CasadiPrimordine logo need to be submitted on the main label page [l=Irma] since those releases have been published via their main label and not via their sub label.\r\n\r\nAmerican releases are split between \"Irma Inc.\" and \"IRMAmerica\". \"Irma Inc.\" releases need to be submitted on the \"Irma\" page - \"IRMAmerica\" releases need to be submitted on the \"IRMAmerica\" page.\n",
+  "releases_url": "https://api.discogs.com/labels/1575/releases",
+  "name": "Irma",
+  "contact_info": "IRMA Italy: \r\nVia Fontanina, 2\r\n40121 Bologna (Italy)\r\n\r\nTel: +39 051 248 993\r\nFax: +39 051 253 787\r\n\r\nIRMA UK:\r\n8 Putney High Street - SW15 1SL - London (UK)\r\nTel: +44(0)181 780 0906\r\nFax: +44(0)181 780 0545\r\n\r\nIRMA STATES (USA):\r\n214 W 29th Street - Suite 1002 - New York, NY 10001\r\nTel: +1 212 244 5148\r\nFax: +1 212 244 5149\r\n\r\nIRMA Japan\r\nThe Peak 5A,Naka-Cho\r\nMeguro-ku,Tokyo\r\n153-0065 Japan\r\nTel: +81.(0)3.3715.7303\r\nFax: +81.(0)3.3715.7303\n",
+  "uri": "https://www.discogs.com/label/1575-Irma",
+  "sublabels": [
+    {
+      "resource_url": "https://api.discogs.com/labels/94344",
+      "id": 94344,
+      "name": "35mm"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/12622",
+      "id": 12622,
+      "name": "Absolut Joy"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/10946",
+      "id": 10946,
+      "name": "Amoco"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/6846",
+      "id": 6846,
+      "name": "Antima Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/4472",
+      "id": 4472,
+      "name": "Atmo"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/117699",
+      "id": 117699,
+      "name": "Biokip"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/12468",
+      "id": 12468,
+      "name": "Caipirinha Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/4473",
+      "id": 4473,
+      "name": "Calypso Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/10079",
+      "id": 10079,
+      "name": "Cuadra"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/50216",
+      "id": 50216,
+      "name": "Danceadelic Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/98658",
+      "id": 98658,
+      "name": "Double Dee Music"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/28442",
+      "id": 28442,
+      "name": "Elettrica"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/26527",
+      "id": 26527,
+      "name": "\u00c8viva Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/7892",
+      "id": 7892,
+      "name": "Free Zone"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/5434",
+      "id": 5434,
+      "name": "Head To Toe Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/122322",
+      "id": 122322,
+      "name": "Hot Fruit Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/11496",
+      "id": 11496,
+      "name": "Instinctual Inside Grooves"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/46494",
+      "id": 46494,
+      "name": "Irma Caf\u00e9"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/33808",
+      "id": 33808,
+      "name": "Irma CasaDiPrimordine"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/22089",
+      "id": 22089,
+      "name": "Irma Classics"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/933223",
+      "id": 933223,
+      "name": "Irma Dancefloor"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/574516",
+      "id": 574516,
+      "name": "Irma Molto Jazz"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/29925",
+      "id": 29925,
+      "name": "Irma On Canvas"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/115243",
+      "id": 115243,
+      "name": "Irma Records Japan"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/78348",
+      "id": 78348,
+      "name": "Irma States"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/1185351",
+      "id": 1185351,
+      "name": "Irma Tropical"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/49362",
+      "id": 49362,
+      "name": "Irma Unlimited"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/110802",
+      "id": 110802,
+      "name": "IRMAmerica"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/31117",
+      "id": 31117,
+      "name": "La Douce"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/51343",
+      "id": 51343,
+      "name": "La EMPRESA del Disco"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/91815",
+      "id": 91815,
+      "name": "La Pazza International"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/521687",
+      "id": 521687,
+      "name": "Mo'Plen"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/26190",
+      "id": 26190,
+      "name": "Moonbeat Recordings"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/4470",
+      "id": 4470,
+      "name": "Onizom Music"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/4294",
+      "id": 4294,
+      "name": "Rec In Pause"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/21004",
+      "id": 21004,
+      "name": "Sukii Records"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/148367",
+      "id": 148367,
+      "name": "Terminal (3)"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/447853",
+      "id": 447853,
+      "name": "The Jazz House Independent"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/2528",
+      "id": 2528,
+      "name": "The Sound Of Calypso"
+    },
+    {
+      "resource_url": "https://api.discogs.com/labels/10212",
+      "id": 10212,
+      "name": "Trance Records (2)"
+    }
+  ],
+  "urls": [
+    "http://www.irmagroup.com/",
+    "http://www.myspace.com/irmarecords",
+    "http://www.irmagroup.jp"
+  ],
+  "images": [
+    {
+      "uri": "",
+      "height": 190,
+      "width": 600,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 120,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 530,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 60,
+      "width": 468,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 45,
+      "width": 98,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "resource_url": "https://api.discogs.com/labels/1575",
+  "id": 1575,
+  "data_quality": "Correct"
+}
