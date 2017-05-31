@@ -35,16 +35,16 @@ class MusicProcessor {
 
     startLabelStream(labelRequestQ, releaseRequestQ, labelQ)
     //startArtistStream(artistQ, releaseQ)
-    startReleaseStream(releaseRequestQ, labelRequestQ, artistRequestQ)
+    //startReleaseStream(releaseRequestQ, labelRequestQ, artistRequestQ)
 
     //Thread.sleep(15000)
   }
 
   def startLabelStream(labelRequestQ: BlockingQueue[LabelRequest],
                        releaseQ: BlockingQueue[ReleaseRequest],
-                       labelQ: BlockingQueue[Label) = {
+                       labelQ: BlockingQueue[Label] )= {
     new LabelProcessor(labelRequestQ, releaseQ, labelQ).start()
-    List("681","1060","12913","688","26972","37062")
+    List("1575", "681","1060","12913","688","26972","37062")
       .map( (id) => LabelRequest( Some(id), None))
       .foreach( labelRequestQ put _)
   }

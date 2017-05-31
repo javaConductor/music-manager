@@ -32,7 +32,8 @@ class LabelProcessor( labelRequestQ:BlockingQueue[LabelRequest],
   def start(): Unit ={
     Future {
       while (true) {
-        Thread.sleep(1000)
+        Thread.sleep(3000)
+        println( "=" * 100)
         val s = Source.fromIterator[LabelRequest](() => List(labelRequestQ.take()).iterator)
           .map((c) => {
             println(s"Request From Graph -> $c");
@@ -45,9 +46,10 @@ class LabelProcessor( labelRequestQ:BlockingQueue[LabelRequest],
         })
           .filter(labelFilter)
           .map((c: Label) => {
+            queueSubLabels(c.subLabels, labelRequestQ)
             new MusicRepository().save(c) match {
               case -\/(t) => {
-                println(s"Error ${t.getLocalizedMessage} saving label: $c")
+                println(s"Error ${t.getLocalizedMessage} saving label: ${c}")
                 t.printStackTrace()
                 throw t
               }
@@ -58,15 +60,16 @@ class LabelProcessor( labelRequestQ:BlockingQueue[LabelRequest],
               }
             }
           })
-          .map((c) => {
-            queueSubLabels(c.subLabels, labelRequestQ)
-            println(s"Saved Label From Graph -> $c");
-            c
-          })
-        val ret = s.runFold[List[Label]](List())((l, r) => r :: l)
+
+        s.runFold[List[Label]](List())((l, r) => r :: l)
           .onComplete {
-            case Success(l) => {
-              println(s"Processed: $l");
+            case Success(l:List[Label]) => {
+              l.headOption match {
+                case Some(s) => {
+                  println(s"Processed: ${s.discogsId} ${s.name}")
+                }
+                case _ =>
+              }
 
               l.reverse
             }
@@ -75,29 +78,27 @@ class LabelProcessor( labelRequestQ:BlockingQueue[LabelRequest],
               Nil
             }
           }
-
       }
     }
 
-
   }
-
 
   def queueSubLabels(labels: List[SubLabel], labelQ: BlockingQueue[LabelRequest]) = {
     labels.foreach((lab) => {
+      println(s"Adding subLabel: ${lab.name} to labelRequestQ.")
       labelQ.put(LabelRequest(Some(lab.discogsId), None))
-    }
-    )
-  }
-
-  def queueReleases(label: Label, labelQ: BlockingQueue[LabelRequest]) = {
-    labels.foreach ( (lab) => {
-      labelQ.put( LabelRequest(Some(lab.discogsId), None) )
-    }
-    )
-
+    })
 
   }
+//
+//  def queueReleases(label: Label, labelQ: BlockingQueue[LabelRequest]) = {
+//    labels.foreach ( (lab) => {
+//      labelQ.put( LabelRequest(Some(lab.discogsId), None) )
+//    }
+//    )
+//
+//
+//  }
 
   val musicRepository:MusicRepository = new MusicRepository
   /**
